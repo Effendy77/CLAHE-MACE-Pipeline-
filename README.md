@@ -79,3 +79,9 @@ Please cite our associated manuscript if you use this pipeline in your research:
 ## License
 
 MIT License
+
+
+## Data Availability
+
+No UK Biobank participant-level data (including eid) is included in this repository.
+All analyses were conducted under UK Biobank approval using secure local data.
